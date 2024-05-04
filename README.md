@@ -45,5 +45,3 @@ This project successfully meets the initial course requirements, showcasing the 
 - **Data Structures**: Implements lists and dictionaries, demonstrating efficient management and manipulation of complex data.
 - **Control Structures**: Incorporates loops and conditional statements to guide the flow of the program, ensuring dynamic data processing.
 - **Functional Programming**: Utilizes a Lambda function to streamline calculations, exemplifying concise and effective programming practices.
-
-_By Riyadh Alghamdi_
