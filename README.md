@@ -8,10 +8,6 @@ This Tourism Recommender system is designed to guide travelers in selecting the 
 
 The climate data utilized in this project is sourced from the [Kingdom of Saudi Arabia Open Data Platform](https://open.data.gov.sa/ar/datasets/view/2c95f8d9-c1a9-4c4d-a1d4-b7de55a87136/resources). This data includes historical average temperatures which are key to predicting favorable travel conditions.
 
-## Final Result
-
-The system provides a user-friendly interface where users can select months and cities of interest. It then displays a sorted list of the top five cities with the best average temperatures for the selected time frame, presented in an interactive and visually appealing format.
-
 ## Git Usage in Development
 
 During the development of this project, our team employed a collaborative approach using Git to ensure efficient and error-free integration of various components:
@@ -43,9 +39,13 @@ This project not only fulfills the project 1 requirements but also extends beyon
 
 ## Project Specifications
 
-This project successfully meets the initial course requirements, showcasing the creative application of Python to address real-world problems:
+This project successfully meets the initial project requirements, showcasing the creative application of Python to address real-world problems:
 
 - **Data Types Used**: The project effectively utilizes at least three primary data types (`int`, `float`, `str`), ensuring robust data handling and operations.
 - **Data Structures**: Implements lists and dictionaries, demonstrating efficient management and manipulation of complex data.
 - **Control Structures**: Incorporates loops and conditional statements to guide the flow of the program, ensuring dynamic data processing.
 - **Functional Programming**: Utilizes a Lambda function to streamline calculations, exemplifying concise and effective programming practices.
+
+## Final Result
+
+The system provides a user-friendly interface where users can select months and cities of interest. It then displays a sorted list of the top five cities with the best average temperatures for the selected time frame, presented in an interactive and visually appealing format.
