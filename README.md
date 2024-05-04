@@ -23,7 +23,7 @@ This project effectively demonstrates the application of foundational Python pro
 
 - **Python Basics**:
 
-  - **Data Types**: We adeptly utilized three primary data types—`int`, `float`, and `str`—which were crucial for handling numerical and textual data.
+  - **Data Types**: We adeptly utilized three primary data types `int`, `float`, and `str` which were crucial for handling numerical and textual data.
   - **Data Structures**: Implemented lists for organizing months and dictionaries for storing city temperatures, showcasing our ability to manage and manipulate complex data structures efficiently.
   - **Control Structures**: Used loops to process data iteratively and conditional statements to filter results based on user inputs, ensuring dynamic and responsive system behavior.
   - **Functions and Lambda**: Developed functions that return calculated results, enhancing the modularity and reusability of the code. Additionally, a Lambda function was deployed to calculate mean temperatures, demonstrating efficient functional programming techniques.
