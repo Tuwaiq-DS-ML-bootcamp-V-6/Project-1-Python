@@ -1,0 +1,10 @@
+id: 1, name: Mohammed, GPA: 3.1, hours: 80, final: 30, HW: 20, Quiz: 20, Lab: 20, Grade: Pass
+id: 2, name: Sarah, GPA: 3.5, hours: 85, final: 35, HW: 18, Quiz: 20, Lab: 20, Grade: Pass
+id: 3, name: Khalid, GPA: 3.2, hours: 78, final: 32, HW: 19, Quiz: 18, Lab: 20, Grade: Pass
+id: 4, name: Sultan, GPA: 3.8, hours: 90, final: 40, HW: 20, Quiz: 20, Lab: 20, Grade: Pass
+id: 5, name: Abdullah, GPA: 2.9, hours: 75, final: 18, HW: 17, Quiz: 10, Lab: 10, Grade: Fail
+id: 6, name: Maha, GPA: 3.6, hours: 88, final: 38, HW: 20, Quiz: 20, Lab: 20, Grade: Pass
+id: 7, name: Jummanah, GPA: 3.4, hours: 82, final: 36, HW: 20, Quiz: 20, Lab: 20, Grade: Pass
+id: 8, name: Layla, GPA: 3.0, hours: 76, final: 19, HW: 8, Quiz: 10, Lab: 19, Grade: Fail
+id: 9, name: Yasser, GPA: 3.7, hours: 87, final: 39, HW: 20, Quiz: 20, Lab: 20, Grade: Pass
+id: 10, name: Saleh, GPA: 3.3, hours: 80, final: 34, HW: 20, Quiz: 20, Lab: 20, Grade: Pass
