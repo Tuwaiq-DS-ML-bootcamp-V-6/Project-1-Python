@@ -4,6 +4,10 @@
 
 This Tourism Recommender system is designed to guide travelers in selecting the best months to visit various cities in Saudi Arabia based on temperature data. By inputting their preferred travel months, users can receive recommendations for cities with optimal weather conditions, enhancing their travel planning and experience.
 
+## Data Source
+
+The climate data utilized in this project is sourced from the [Kingdom of Saudi Arabia Open Data Platform](https://open.data.gov.sa/ar/datasets/view/2c95f8d9-c1a9-4c4d-a1d4-b7de55a87136/resources). This data includes historical average temperatures which are key to predicting favorable travel conditions.
+
 ## Final Result
 
 The system provides a user-friendly interface where users can select months and cities of interest. It then displays a sorted list of the top five cities with the best average temperatures for the selected time frame, presented in an interactive and visually appealing format.
