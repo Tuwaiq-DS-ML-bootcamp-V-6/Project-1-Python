@@ -8,6 +8,6 @@ This project is a car rental system designed to manage the rental process for ve
 # Technologies Used:
  - Utilized Python and HTML with Flask framework for this project.
 
-## Visual Overview
+# Visual Overview
 ![Description1](CarRent1.png) ![Description2](CarRent2.png)
 ![Description3](CarRent3.png) ![Description4](CarRent4.png)
