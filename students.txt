@@ -1,0 +1,5 @@
+Student ID: 1, Name: Sultan, GPA: 4.5, Hours: 120, Final: 40, hw: 20, Quiz: 20, Lab: 20, Grade: Pass,
+Student ID: 2, Name: Ali, GPA: 3.5, Hours: 85, Final: 40, hw: 10, Quiz: 10, Lab: 10, Grade: Pass,
+Student ID: 3, Name: Mohammed, GPA: 4.9, Hours: 10, Final: 40, hw: 20, Quiz: 20, Lab: 15, Grade: Pass, 
+Student ID: 4, Name: Abdullah, GPA: 2.0, Hours: 30, Final: 20, hw: 5, Quiz: 5, Lab: 5, Grade: Fail, 
+Student ID: 5, Name: Abdullah, GPA: 2.3, Hours: 80, Final: 20, hw: 1, Quiz: 2, Lab: 3, Grade: Fail, 
